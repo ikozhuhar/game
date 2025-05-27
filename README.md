@@ -5,6 +5,7 @@ https://overthewire.org/wargames/bandit/
 
 bandit0: 
 	ssh -p 2220 bandit0@bandit.labs.overthewire.org pass: bandit0
+ 
 	cat readmy #  Здесь берем пароль для bandit1
 
 bandit1: 
