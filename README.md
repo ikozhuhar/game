@@ -1,5 +1,5 @@
 # game
-https://habr.com/ru/articles/505906/
+https://habr.com/ru/articles/505906/  
 https://overthewire.org/wargames/bandit/
 
 bandit0: 
